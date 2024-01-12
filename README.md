@@ -1,5 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;My+name+is+Alisson)](https://git.io/typing-svg)
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=alissonoliveira1&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonoliveira1&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
