@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 <div align="center">
- <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&random=false&width=435&lines=HI%F0%9F%96%90+WELCOME+MY+GITHUB;MY+NAME+IS+ALISSON+OLIVEIRA%F0%9F%A7%91%F0%9F%8F%BE" alt="Typing SVG" /></a>
+ <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&random=false&width=600&lines=HI%F0%9F%96%90+WELCOME+MY+GITHUB; I'M+ALISSON+OLIVEIRA;I'M+GRADUATING+IN+SOFTWARE+ENGINEERING%F0%9F%A7%91%F0%9F%8F%BE" alt="Typing SVG" /></a>
 
 </div>
 
