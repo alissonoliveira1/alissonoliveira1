@@ -2,7 +2,7 @@
 <div align="center">
  <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF8000&center=true&random=false&width=600&lines=HI%F0%9F%96%90+WELCOME+MY+GITHUB; I'M+ALISSON+OLIVEIRA ;I'M+GRADUATING+IN+SOFTWARE+ENGINEERING" alt="Typing SVG" /></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 <div>
  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=alissonoliveira1&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonoliveira1&layout=compact&langs_count=16&theme=great-gatsby"/>
