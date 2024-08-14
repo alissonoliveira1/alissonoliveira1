@@ -2,32 +2,52 @@
 <div align="center">
  <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF8000&center=true&random=false&width=600&lines=HI%F0%9F%96%90+WELCOME+MY+GITHUB; I'M+ALISSON+OLIVEIRA ;I'M+GRADUATING+IN+SOFTWARE+ENGINEERING" alt="Typing SVG" /></a>
 </div>
-<br/><br/><br/><br/>
+<br/><br/>
 <div>
- <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=alissonoliveira1&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
- <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonoliveira1&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
+
 
 <div align="center">
-<div>
- <h1 >Melhores tecnologias💖👨🏾‍💻</h1>
- <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-<div>
-  <h1>Redes Sociais</h1>
-    <a href = "mailto: alissonoliveira201339@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>    
-    <a href = "https://www.linkedin.com/in/alisson-oliveira-55a803232/">
-      <img width="25" src="linkedin.svg">
-    </a> 
-    <a href = "https://www.instagram.com/alisson_novays/">
-      <img width="25" src="instagram.svg">
-    </a>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alissonoliveira1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=alissonoliveira1&locale=en&mode=weekly&theme=darcula&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="200" alt="streak graph"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/alissonoliveira1/alissonoliveira1/output/snake.svg" alt="Snake animation" />
+
+###
 
