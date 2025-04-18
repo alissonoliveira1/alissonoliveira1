@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFAD5B&height=120&section=header"/>
 
+## Hello, I`m Alisson de Oliveira
 
-<br/><br/>
-
+Full Stack Developer | Focused on Node.js, React, Next.js, and much more!
 
 ###
 
@@ -41,7 +41,7 @@
 </div>
 
 ###
-
+<br></br>
 <br clear="both">
 
 <h3 align="center">Status 👾</h3>
@@ -52,8 +52,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alissonoliveira1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alissonoliveira1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
+<br></br>
+<br></br>
 
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alissonoliveira1/alissonoliveira1/output/pacman-contribution-graph-dark.svg">
