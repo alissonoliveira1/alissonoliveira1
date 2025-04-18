@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFAD5B&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0061C3&height=120&section=header"/>
 
 ## Hello, I`m Alisson de Oliveira
 
